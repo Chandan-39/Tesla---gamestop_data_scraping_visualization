@@ -25,5 +25,5 @@ This project analyzes GameStop's stock price trends and quarterly revenue data u
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Chandan-39/gamestop-stock-analysis.git
+   git clone https://github.com/Chandan-39/Tesla_gamestop_data_scraping_visualization.git
    cd gamestop-stock-analysis
